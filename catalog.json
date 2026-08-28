@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gg1",
+    "title": "Guardiões da Galáxia",
+    "type": "Filme",
+    "genres": ["Ação", "Ficção Científica", "Comédia"],
+    "releaseYear": 2014,
+    "synopsis": "Um grupo de fora-da-lei se une para proteger a galáxia de uma ameaça poderosa.",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "colorHex": "#E50914",
+    "rating": 9.0,
+    "ratingCount": 1520,
+    "finished": true,
+    "durationMinutes": 121,
+    "franchiseId": "franquia_gg",
+    "franchiseOrder": 1,
+    "seasons": []
+  },
+  {
+    "id": "tmg",
+    "title": "The Midnight Gospel",
+    "type": "Série",
+    "genres": ["Animação", "Ficção Científica", "Comédia"],
+    "releaseYear": 2020,
+    "synopsis": "Um apresentador de transmissão-espacial visita mundos malucos em seu simulador de universo.",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "colorHex": "#7B2FBE",
+    "rating": 8.5,
+    "ratingCount": 640,
+    "finished": true,
+    "durationMinutes": null,
+    "franchiseId": null,
+    "franchiseOrder": null,
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "(Nome do Episódio)",
+            "releaseDate": "01/01/2020",
+            "durationMinutes": 22,
+            "hasDubbed": true,
+            "hasSubtitled": true
+          }
+        ]
+      }
+    ]
+  }
+]
