@@ -3,13 +3,17 @@
     "id": "gg1",
     "title": "Guardiões da Galáxia",
     "type": "Filme",
-    "genres": ["Ação", "Ficção Científica", "Comédia"],
+    "genres": [
+      "Ação",
+      "Ficção Científica",
+      "Comédia"
+    ],
     "releaseYear": 2014,
     "synopsis": "Um grupo de fora-da-lei se une para proteger a galáxia de uma ameaça poderosa.",
     "posterUrl": "",
     "backdropUrl": "",
     "colorHex": "#E50914",
-    "rating": 9.0,
+    "rating": 9,
     "ratingCount": 1520,
     "finished": true,
     "durationMinutes": 121,
@@ -21,7 +25,11 @@
     "id": "tmg",
     "title": "The Midnight Gospel",
     "type": "Série",
-    "genres": ["Animação", "Ficção Científica", "Comédia"],
+    "genres": [
+      "Animação",
+      "Ficção Científica",
+      "Comédia"
+    ],
     "releaseYear": 2020,
     "synopsis": "Um apresentador de transmissão-espacial visita mundos malucos em seu simulador de universo.",
     "posterUrl": "",
