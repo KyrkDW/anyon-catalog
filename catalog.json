@@ -1,14 +1,14 @@
 [
   {
     "id": "gg1",
-    "title": "Guardiões",
+    "title": "Guardiões da Galáxia",
     "type": "Filme",
     "genres": [
       "Ação",
       "Ficção Científica",
       "Comédia"
     ],
-    "releaseYear": 2021,
+    "releaseYear": 2014,
     "synopsis": "Um grupo de fora-da-lei se une para proteger a galáxia de uma ameaça poderosa.",
     "posterUrl": "",
     "backdropUrl": "",
@@ -56,5 +56,25 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gg2",
+    "title": "Guardiões da Galáxia 2",
+    "type": "Filme",
+    "genres": [
+      "Ação"
+    ],
+    "releaseYear": null,
+    "synopsis": "",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "colorHex": "#E50914",
+    "rating": 8,
+    "ratingCount": 510,
+    "finished": true,
+    "durationMinutes": 320,
+    "franchiseId": "franquia_gg",
+    "franchiseOrder": 2,
+    "seasons": []
   }
 ]
