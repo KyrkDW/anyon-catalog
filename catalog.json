@@ -1,14 +1,14 @@
 [
   {
     "id": "gg1",
-    "title": "Guardiões da Galáxia",
+    "title": "Guardiões",
     "type": "Filme",
     "genres": [
       "Ação",
       "Ficção Científica",
       "Comédia"
     ],
-    "releaseYear": 2014,
+    "releaseYear": 2021,
     "synopsis": "Um grupo de fora-da-lei se une para proteger a galáxia de uma ameaça poderosa.",
     "posterUrl": "",
     "backdropUrl": "",
