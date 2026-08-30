@@ -3334,7 +3334,7 @@
     "colorHex": "#E50914",
     "rating": 7.9,
     "ratingCount": 8731,
-    "finished": false,
+    "finished": true,
     "durationMinutes": 120,
     "franchiseId": "franquia_gg",
     "franchiseOrder": 3,
