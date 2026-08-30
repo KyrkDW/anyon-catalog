@@ -143,30 +143,6 @@
     ]
   },
   {
-    "id": "gg2",
-    "title": "Guardiões da Galáxia - Vol. 2",
-    "type": "Filme",
-    "genres": [
-      "Ficção científica",
-      "Aventura",
-      "Ação"
-    ],
-    "releaseYear": 2017,
-    "synopsis": "Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
-    "colorHex": "#E50914",
-    "rating": 7.6,
-    "ratingCount": 23346,
-    "finished": true,
-    "durationMinutes": 320,
-    "franchiseId": "franquia_gg",
-    "franchiseOrder": 2,
-    "videoUrlDubbed": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1EQAgcOWlBaW0hLVFlbXk9SR04FAAEZBAoVD0lWUiMIChM%2FDiUNBRMaBQdHHRcOGE5cUQkKEjQbBQUCFRAQAgUFC0hRTkNDVElGSRoLBQgHGgAfAklCWEVUXFEHBAQfHQQfMxkXRlFbXUldXFQN",
-    "videoUrlSubtitled": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1EQAgcOWlBaW0hLVFlbXk9SR04FAAEZBAoVD0lWUiMIChM%2FDiUNBRMaBQdHHRcOGE5cUQkKEjQbBQUCFRAQAgUFC0hRTkNDVElGSRoLBQgHGgAfAklCWEVUXFEHBAQfHQQfMxkXRlFbXUldXFQN",
-    "seasons": []
-  },
-  {
     "id": "gg3",
     "title": "Guardiões da Galáxia: Vol. 3",
     "type": "Filme",
