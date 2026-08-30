@@ -3324,7 +3324,7 @@
     "colorHex": "#E50914",
     "rating": 7.6,
     "ratingCount": 3447,
-    "finished": false,
+    "finished": true,
     "durationMinutes": null,
     "franchiseId": null,
     "franchiseOrder": null,
@@ -3339,10 +3339,10 @@
             "title": "Rose",
             "releaseDate": "26/03/2005",
             "durationMinutes": 47,
-            "hasDubbed": false,
+            "hasDubbed": true,
             "hasSubtitled": false,
             "posterUrl": "https://image.tmdb.org/t/p/w500/dZNrYgOvt5M6oPAcMf5HH103E05.jpg",
-            "videoUrlDubbed": "",
+            "videoUrlDubbed": "http://vod.up-cdn.com.br/Series/Brooklyn.Nine-Nine/S01/Brooklyn.Nine-Nine.S01.E01.mp4?exp=1788134367&token=9870e2f2b1d8e0632d9126745b3d8deb76608a9c56b796304fed96e22d518b77",
             "videoUrlSubtitled": ""
           },
           {
@@ -3350,10 +3350,10 @@
             "title": "O Fim do Mundo",
             "releaseDate": "02/04/2005",
             "durationMinutes": 47,
-            "hasDubbed": false,
+            "hasDubbed": true,
             "hasSubtitled": false,
             "posterUrl": "https://image.tmdb.org/t/p/w500/5K6YOLEC8wRzugniOXCQNVndSyD.jpg",
-            "videoUrlDubbed": "",
+            "videoUrlDubbed": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14990.mp4?username=PlayTvOficial-vods&token=C1EQAgcOWlBaW0hLVVhYXUlbR04FAAEZBAoVD0lWUiMIChM%2FDiUNBRMaBQdHHRcOGE5cUQkKEjQbBQUCFRAQAgUFC0hRTkNDVElGSRoLBQgHGgAfAklCW1xCR0BISQkEFh4OAgQsDQ9IUUlcWltHShk%3D",
             "videoUrlSubtitled": ""
           },
           {
