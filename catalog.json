@@ -3307,5 +3307,1778 @@
     "videoUrlDubbed": "http://vod.up-cdn.com.br/Series/Brooklyn.Nine-Nine/S01/Brooklyn.Nine-Nine.S01.E01.mp4?exp=1788134367&token=9870e2f2b1d8e0632d9126745b3d8deb76608a9c56b796304fed96e22d518b77",
     "videoUrlSubtitled": "",
     "seasons": []
+  },
+  {
+    "id": "dw",
+    "title": "Doctor Who",
+    "type": "Série",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "releaseYear": 2005,
+    "synopsis": "Acompanhe as incríveis jornadas pelo tempo e espaço do Doutor, um alienígena da linhagem dos senhores do tempo. Nativo do planeta Gallifrey, o Doutor utiliza a Tardis, uma nave capaz de se camuflar como uma cabine de polícia, para explorar o passado e o futuro nos mais distantes lugares do universo.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8xz8ZPiuRLeaganjKd6WtE6S50E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "colorHex": "#E50914",
+    "rating": 7.6,
+    "ratingCount": 3447,
+    "finished": true,
+    "durationMinutes": null,
+    "franchiseId": null,
+    "franchiseOrder": null,
+    "videoUrlDubbed": "",
+    "videoUrlSubtitled": "",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Rose",
+            "releaseDate": "26/03/2005",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dZNrYgOvt5M6oPAcMf5HH103E05.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O Fim do Mundo",
+            "releaseDate": "02/04/2005",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5K6YOLEC8wRzugniOXCQNVndSyD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Os Mortos Inquietos",
+            "releaseDate": "09/04/2005",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qT2Ca5Ljlt4gigJPNrmYHMnoE7I.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Os Aliens de Londres",
+            "releaseDate": "16/04/2005",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hGmpP763cd0ZNZ9wj42sRf1jvUi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Terceira Guerra Mundial",
+            "releaseDate": "23/04/2005",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eENMopk1i0mCLEcw3GbfxKos6f3.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Dalek",
+            "releaseDate": "30/04/2005",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ijo4TGwFjk8x0ZrU2fg5OVYFEbx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "O Jogo Longo",
+            "releaseDate": "07/05/2005",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yWbxzMNOE29yGZFrSzHpyTB9kSh.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Dia dos Pais",
+            "releaseDate": "14/05/2005",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xS8xgUjEcKxjuvbqTjM3fPwUiQv.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "A Criança Vazia",
+            "releaseDate": "21/05/2005",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/obBxGEt9GAbvgOm4vkcjOWp5BSY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "O Doutor Dança",
+            "releaseDate": "28/05/2005",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yJTDD8NvVjWeWXlMokLvsU4kDjN.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Cidade Explosiva",
+            "releaseDate": "04/06/2005",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9y8zGuQYawL0CgrY8kRAYvlysOK.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Lobo Mau",
+            "releaseDate": "11/06/2005",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4jmaOhuBiQc9OzDcigvmOukH8kl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "A Separação dos Caminhos",
+            "releaseDate": "18/06/2005",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1OkIS6TM8d1KFo5krGS6nvn37pH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Nova Terra",
+            "releaseDate": "15/04/2006",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/s1eFDyxYDF2w8dZhATFAQFm2NhY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Dente e Garra",
+            "releaseDate": "22/04/2006",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2cs5eMckKxOt6yaVG0G4h7ETjI0.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Reunião Escolar",
+            "releaseDate": "29/04/2006",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yocFrIn7kNPzbAhWdGCMhICS4fu.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A Garota na Lareira",
+            "releaseDate": "06/05/2006",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yN4GJf4cimPy6EMQh2pYPZp6ZhA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "A Ascensão dos Cyborgues",
+            "releaseDate": "13/05/2006",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/po20igUYu3TdMI0ajotxX64LNQR.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "A Era do Aço",
+            "releaseDate": "20/05/2006",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9sJlC7b46N6uO4QRdWFD3PEXBme.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A Lanterna dos Idiotas",
+            "releaseDate": "27/05/2006",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aLHP7aLCmSQJfZHxYM9STcECy8l.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "O Planeta Impossível",
+            "releaseDate": "03/06/2006",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/62ir7aFCD5Q5bpOslSB20VBywnx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O Abismo do Demônio",
+            "releaseDate": "10/06/2006",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/AhLxY9rJO5S1VfTX9KCQSiM0x1g.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Amor e Monstros",
+            "releaseDate": "17/06/2006",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1oGqQXM4KDX1Gs0cloRTRPFgcBC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Tenha Medo Dela",
+            "releaseDate": "24/06/2006",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pOWtOs33vsiqYOukTeh32YMjw35.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "O Exército de Fantasmas",
+            "releaseDate": "01/07/2006",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5ubiebZlBAccSwjRZvRi4eBPBci.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Juízo Final",
+            "releaseDate": "08/07/2006",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dDv5NyrOL6o6vAVDFIddsNLtYoQ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 3,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Smith e Jones",
+            "releaseDate": "01/04/2007",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/3JlZ7PFIjRBhomVAwPwtCrD3ZVy.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O Código Shakespeare",
+            "releaseDate": "07/04/2007",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hOJizRUmqpWGCDMmuFCNQXex1VG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Congestionamento",
+            "releaseDate": "14/04/2007",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ja8oZQszacBLr7sc1uceRIsPb49.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Daleks em Manhattan",
+            "releaseDate": "21/04/2007",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9QkR09kEpAOpF2QpNJHUoNscnY0.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Evolução dos Daleks",
+            "releaseDate": "28/04/2007",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cPTcmOlSep64XXsXv9YdcbLxIhb.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "O Experimento Lázaro",
+            "releaseDate": "05/05/2007",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wlxx4LJqwOs5H4Vb14Ixrog7u9l.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "42",
+            "releaseDate": "19/05/2007",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7gU2gL2eMzsMfDzLWxx1K5RktiB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Natureza Humana",
+            "releaseDate": "26/05/2007",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uU0CrIONDzbW6sG4pD6OZZ4AwtY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "A Família de Sangue",
+            "releaseDate": "02/06/2007",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wiQxc57C1zd4sonGlfmopNnENaO.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Não Pisque",
+            "releaseDate": "09/06/2007",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mK9xscWBukA6BR5mDQkO9pRfkEA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Utopia",
+            "releaseDate": "16/06/2007",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tJ1yrD2HeSJg24FEhb5Zdhai5gc.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "O Som dos Tambores",
+            "releaseDate": "23/06/2007",
+            "durationMinutes": 52,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2TbVwbEAFVjvDdVjnJfF2bvjnzw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Último dos Senhores do Tempo",
+            "releaseDate": "30/06/2007",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5JrFqtQezODClpZWGHPZlMYaTMH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 4,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Parceiros no Crime",
+            "releaseDate": "05/04/2008",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vg5oP1tOzivl4EV7iHiEaKwiZkK.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Os Fogos de Pompeia",
+            "releaseDate": "12/04/2008",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4WoJP6if8546yPrWjvJ3SBfHClg.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Planeta dos Ood",
+            "releaseDate": "19/04/2008",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pqzflnCz2QgRC2lUSfCSTofsZJ1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O Estratagema Sontaran",
+            "releaseDate": "26/04/2008",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ikA0PwE1keiDTYm1q9PE23jLE0D.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "O Céu Envenenado",
+            "releaseDate": "03/05/2008",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sTXVz2T5VoZEQL2JDLcwCQbJDeD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "A Filha do Doutor",
+            "releaseDate": "10/05/2008",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7klhFwZBi2aXm6nnD54wX0bkvr6.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "O Unicórnio e a Vespa",
+            "releaseDate": "17/05/2008",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aJoZuFI7uZolIkYguRTkcdVijO.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Silêncio na Biblioteca",
+            "releaseDate": "31/05/2008",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/onscVYuIjOL21i1d41iapJ3g2qi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Floresta dos Mortos",
+            "releaseDate": "07/06/2008",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xAW7SCNkOsfyCLFZiGmeanSaR8L.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Meia-Noite",
+            "releaseDate": "14/06/2008",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/p0HnYnHVhjogyqxq3sSpamTWvIV.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Vire à Esquerda",
+            "releaseDate": "21/06/2008",
+            "durationMinutes": 52,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/etMTaIloNsHhSqDkqV66tLnJ8Z0.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "A Terra Roubada",
+            "releaseDate": "28/06/2008",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6Ze69Ber1dxZfWuKNgGspRAqIqi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Fim da Jornada",
+            "releaseDate": "05/07/2008",
+            "durationMinutes": 66,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iuiuzCpeGRu5fqZmpS5160cQugn.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 5,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "A Décima Primeira Hora",
+            "releaseDate": "03/04/2010",
+            "durationMinutes": 65,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/i10v5tkFxq7z6HNVLCHZSctM1hk.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "A Besta de Baixo",
+            "releaseDate": "10/04/2010",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/83SgvLtw7F4ATV23kIX9P4N8dky.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "A Vitória dos Daleks",
+            "releaseDate": "17/04/2010",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/x6jFAcTq6Wgu8RTNzNfBEUCrpTb.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O Tempo dos Anjos",
+            "releaseDate": "24/04/2010",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fIfqHand7jXwdUUk4N0BRs8WgG2.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Carne e Pedra",
+            "releaseDate": "01/05/2010",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yeBBoeNrlhDZK4TPIq4bUX3jiFV.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Os Vampiros de Veneza",
+            "releaseDate": "08/05/2010",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jLksFGWiRB0EHmCxLosDwIJW7GA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A Escolha de Amy",
+            "releaseDate": "15/05/2010",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aFCoZCnEx1lQJcV30EWE1lfHuGo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A Terra Faminta",
+            "releaseDate": "22/05/2010",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zo1sJgMNCtQPD2BQtyhCaSTOgyb.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Sangue Frio",
+            "releaseDate": "29/05/2010",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kpjhRYkFJIV90yqrwCWGk8ALhdb.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Vincent e o Doutor",
+            "releaseDate": "05/06/2010",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bSXtkTYVizAlcbNGRHBCj8rznCJ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "O Inquilino",
+            "releaseDate": "12/06/2010",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wbo8GXgAMZ7H3XdZLqm2UJO1ow.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "A Pandorica Se Abre",
+            "releaseDate": "19/06/2010",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/de5ARsQIVy2i3oRYvgTPnZDi770.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Big Bang",
+            "releaseDate": "26/06/2010",
+            "durationMinutes": 54,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nHm40KTSn9UUuOmK2eS1m9Oxmxj.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 6,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Astronauta Impossível",
+            "releaseDate": "23/04/2011",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hYex2T50TttotieYNorzrlRQrL3.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O Dia da Lua",
+            "releaseDate": "30/04/2011",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vPfOZxw5OLYgVIT92v16IyuLOq3.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "A Maldição da Mancha Negra",
+            "releaseDate": "07/05/2011",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2K5FW6zn45uxCeIfp2yXV3h1vH4.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A Esposa do Doutor",
+            "releaseDate": "14/05/2011",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5IRD8S32mAIBFVrebsx8fUaBOyC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "A Carne Rebelde",
+            "releaseDate": "21/05/2011",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2nSKMC4B6Rkg3ilTiQbwDGZfBfv.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "As Quase Pessoas",
+            "releaseDate": "28/05/2011",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/k0hqRfoowt20O26gQB1vYfVfa9j.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Um Homem Bom vai à Guerra",
+            "releaseDate": "04/06/2011",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2837C8AsNebgsf9dXXTu7EBvVK2.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Vamos Matar Hitler",
+            "releaseDate": "27/08/2011",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qMKR1UFyW3TYuXW0azoXvDKe6G1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Terrores Noturnos",
+            "releaseDate": "03/09/2011",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jt4nqKW5AN8c3WUtzJ31PBiMMMN.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "A Garota Que Esperou",
+            "releaseDate": "10/09/2011",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nvUzNv5iCqYgPLfFAA3YwMXM995.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "O Complexo de Deus",
+            "releaseDate": "17/09/2011",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cOALJWa0gjDohwE0zFiTbsASYj7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Época de Encerramento",
+            "releaseDate": "24/09/2011",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1Inq93eyYyNc8un4ohro5GQNUNQ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Casamento de River Song",
+            "releaseDate": "01/10/2011",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8q6kwCxOY0ED8EQkfFS4oWv2YF9.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 7,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Asilo dos Daleks",
+            "releaseDate": "01/09/2012",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bq2Lt7ft3gAGgIVgi2RI9Yug1Lb.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Dinossauros Em Uma Espaço-Nave",
+            "releaseDate": "08/09/2012",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qNdmvV8j7QH0n7xrSxmQ7KNroc.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Uma Cidade Chamada Misericórdia",
+            "releaseDate": "15/09/2012",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nNYNtxJmJCz3v76ckcLFbvzWBqL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O Poder dos Três",
+            "releaseDate": "22/09/2012",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hMPFhMyL0xJi6lsibWG1vcpwE4w.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Os Anjos Dominam Manhattan",
+            "releaseDate": "29/09/2012",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wYJautwl0CARbcN68b224NYaQl1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Os Sinos de Saint John",
+            "releaseDate": "30/03/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/j4cCDQ3evhkdvmSCrFLnXsAhWhI.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Os Anéis de Arkhaten",
+            "releaseDate": "06/04/2013",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/twEQ1kG0P3l0npgZuWxUywl9WVu.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Guerra Fria",
+            "releaseDate": "13/04/2013",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hWzR3TmDwcsjEtKbb6D00Y4ZAX0.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Oculto",
+            "releaseDate": "20/04/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kDjgvlvjw0QUiNXNkSRi4HprbY7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Jornada ao Centro da TARDIS",
+            "releaseDate": "27/04/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zlHYAYqwP9icwY6bNjOwVWQNZPP.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "O Horror de Crimson",
+            "releaseDate": "04/05/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mhKYkNelmUe6VAonw2XFeL8Q9Dz.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "O Pesadelo de Metal",
+            "releaseDate": "11/05/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pw6HfI7FhRyzbXpx7D5pbf6ejac.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O Nome do Doutor",
+            "releaseDate": "18/05/2013",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rstZ7dB8vuw0hcvEDHtYOtE59Uf.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 8,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Respire Fundo",
+            "releaseDate": "23/08/2014",
+            "durationMinutes": 77,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/o2BanVHlicNHsccXT9SW0zNrCLd.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Dentro do Dalek",
+            "releaseDate": "30/08/2014",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4lsDGJvfV2mfrCI9OeIHQPtz019.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "O Robô de Sherwood",
+            "releaseDate": "06/09/2014",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5FzgVaPR0tT3IuvveHO6hAS3zW1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Escute",
+            "releaseDate": "13/09/2014",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dMAViLP5xtMJPwv9EOYUx0RZR6w.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "O Roubo do Tempo",
+            "releaseDate": "20/09/2014",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/me3tZsKPUujLcNaMBBqxk4zfqIG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "O Zelador",
+            "releaseDate": "27/09/2014",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kM8YQq6bMrRAnFb3ksSoqlmMLy.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Matando a Lua",
+            "releaseDate": "04/10/2014",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/Ao9o6XAWUoV0DU6JSBb4bMrfMY2.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A Múmia no Expresso do Oriente",
+            "releaseDate": "11/10/2014",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/t3uKRUCf7NjjCHR04oIjMWw5YkS.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Os Achatados",
+            "releaseDate": "18/10/2014",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5nvOPS7kAY8ABfzThNDcFXC6m8B.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Na Floresta da Noite",
+            "releaseDate": "25/10/2014",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q7XgP6ZOH3SMZnsuSduqd7m4VDB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Água Escura",
+            "releaseDate": "01/11/2014",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ivoRRJ61ysuhbWaebrNLsN2wu1G.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Morte no Paraíso",
+            "releaseDate": "08/11/2014",
+            "durationMinutes": 57,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sdT95NoQfZ22MOEtIWT2PBCcKff.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 9,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Aprendiz do Mágico",
+            "releaseDate": "19/09/2015",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/3NSXbZVdEN1MRIiywyraojrCzqe.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "A Bruxa Familiar",
+            "releaseDate": "26/09/2015",
+            "durationMinutes": 48,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/i9C8EGTxNyV8gITzOeMz0nIweac.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "No Fundo do Lago",
+            "releaseDate": "03/10/2015",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ytN66AJacqEi9biz0ZNoqRONexd.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Antes da Inundação",
+            "releaseDate": "10/10/2015",
+            "durationMinutes": 43,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nQbCg8toK04cKQi3b7SpGMOtZlr.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "A Garota Que Morreu",
+            "releaseDate": "17/10/2015",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eiamBIpXHMWzRn3wShuoNqWSBun.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "A Mulher Que Viveu",
+            "releaseDate": "24/10/2015",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/foGfiuXpSe3TvCI4CL620i79QLO.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A Invasão Zygon",
+            "releaseDate": "31/10/2015",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kGWrVaSuDlQUrSC7kDJofsSFPnP.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A Inversão Zygon",
+            "releaseDate": "07/11/2015",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wSJpCIsy930yyH0WgWEGFIA3MZl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Sem Dormir",
+            "releaseDate": "14/11/2015",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fY0WCdEyg2pAewvxkg2h6SiYVWC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Enfrentando o Corvo",
+            "releaseDate": "21/11/2015",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/45yppkIcoAUNHuP6jcz4YlqQpLc.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Enviado ao Paraíso",
+            "releaseDate": "28/11/2015",
+            "durationMinutes": 55,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/b9y8abaKmwrglVTMF8e6kgHmtLB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Empenhado",
+            "releaseDate": "05/12/2015",
+            "durationMinutes": 61,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/63ZdUe52okiZu2oR75Rsd7teTxt.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 10,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Piloto",
+            "releaseDate": "15/04/2017",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/egN8BjxH7umTP73Gkjj2HiVZSpw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Sorria",
+            "releaseDate": "22/04/2017",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4H3Sf45uBS5qRGdXdNvOmia5NyD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Gelo Fino",
+            "releaseDate": "29/04/2017",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/d5zYP0yEPotThPRcqXpqSsJMzAl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Toc Toc",
+            "releaseDate": "06/05/2017",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/amIYpM0Drc9jgNzLBRXmgtL24Vc.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Oxigênio",
+            "releaseDate": "13/05/2017",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/l7QmcUeYl7Y1Jf5QcN5Eiw9Yq2T.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Episódio 6",
+            "releaseDate": "20/05/2017",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uoNrQEaiszJIzGppzGecoOd8LrF.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A Pirâmide no Fim do Mundo",
+            "releaseDate": "27/05/2017",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/3snVPeEkPKiNAS5D478sisJyIOu.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A Mentira da Terra",
+            "releaseDate": "03/06/2017",
+            "durationMinutes": 45,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pNgbfTtvLIti10XFtBfXowEg1UF.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Imperatriz de Marte",
+            "releaseDate": "10/06/2017",
+            "durationMinutes": 44,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lJW5n7z9E4ppOOju0zKVd0PN0v.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Os Devoradores de Luz",
+            "releaseDate": "17/06/2017",
+            "durationMinutes": 42,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mjMxkZDNsPJKG0UYOSxa2ndGZxq.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Mundo e Tempo Suficientes",
+            "releaseDate": "24/06/2017",
+            "durationMinutes": 46,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ar4nonH1GWnoi0HDguETxIlm4ds.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "A Queda do Doutor",
+            "releaseDate": "01/07/2017",
+            "durationMinutes": 61,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5PbIITcuMZEtfyZhX3LmzigZPah.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 11,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "A Mulher que Caiu na Terra",
+            "releaseDate": "07/10/2018",
+            "durationMinutes": 63,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mUQVnFLmc3yezq8GGpKcoLfMlMx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O Monumento Fantasma",
+            "releaseDate": "14/10/2018",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kniAsYgN04WAwSfak1N12QG5keg.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Episódio 3",
+            "releaseDate": "21/10/2018",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4G0ilaIEn8SP7VMmVEjtejX8bnC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Aracnídeos no Reino Unido",
+            "releaseDate": "28/10/2018",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2ylynYBmAArvb3AENomrFFpXXYY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "O Enigma de Tsuranga",
+            "releaseDate": "04/11/2018",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/AazgypaiNsI5Ew5tlUwYX2UWi0v.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Demônios de Punjab",
+            "releaseDate": "11/11/2018",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/alynReGcczod8c4QCQQkJvzQK6x.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Episódio 7",
+            "releaseDate": "18/11/2018",
+            "durationMinutes": 49,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/4dIh5DJyWLtL8Xt2RXIeIYWHVAB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Os Caçadores de Bruxas",
+            "releaseDate": "25/11/2018",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lxPHFGkBlwjj9WQgd4tJWbA2q1M.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Abandonada",
+            "releaseDate": "02/12/2018",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/82ZydY3WTpSsntCyWfCkBqoKRQB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "A Batalha de Ranskoor Av Kolos",
+            "releaseDate": "09/12/2018",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/htU0NWRwLX9tbdzupknnDHqsl3k.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 12,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Spyfall - Parte 1",
+            "releaseDate": "01/01/2020",
+            "durationMinutes": 60,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mTQsmvmcCzGoa2VlDiZT1PASTqX.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Spyfall - Parte 2",
+            "releaseDate": "05/01/2020",
+            "durationMinutes": 61,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q7E3cGktQkIjTsjCLE5KK2j3Iau.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Órfão 55",
+            "releaseDate": "12/01/2020",
+            "durationMinutes": 47,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ynAE6GZAHIGeYO41SvjuK8RxDFe.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A Noite de Terror de Nikola Tesla",
+            "releaseDate": "19/01/2020",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1yabRn03r8Mb2iWuMveJTW5JLzk.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Fugindo dos Judoon",
+            "releaseDate": "26/01/2020",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zDeOAVdwmbAus6UL2KpOh3hpp69.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Praxeus",
+            "releaseDate": "02/02/2020",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bLaBhnAvTykOlkmoukF36vg9fk4.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Pode Me Ouvir?",
+            "releaseDate": "09/02/2020",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yFvecyYjPnY9XV7kGhqV7qBWbfT.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A Assombração da Villa Diodati",
+            "releaseDate": "16/02/2020",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q9nKxvfVtmxO30KygAgZCOquUqm.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "A Ascenção dos Cybermen - Parte 1",
+            "releaseDate": "23/02/2020",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1Uq1aD7zY8RQ1DwATZc4XjGAz7c.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "As Crianças Atemporais - Parte 2",
+            "releaseDate": "01/03/2020",
+            "durationMinutes": 66,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tcOy8pikBFZmAfw1Icfg2uXWOHZ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 13,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Apocalipse do Halloween",
+            "releaseDate": "31/10/2021",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9zdtqxzJrETPeHrJaRp5BhuultY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "A Guerra dos Sontarans",
+            "releaseDate": "07/11/2021",
+            "durationMinutes": 60,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lZEmZo4iJqvHLKDxhORT9x9C33d.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Era Uma Vez No Tempo",
+            "releaseDate": "14/11/2021",
+            "durationMinutes": 50,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yTLrnRKrbRJooWr0kQB6ZE44uzD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O Vilarejo dos Anjos",
+            "releaseDate": "21/11/2021",
+            "durationMinutes": 57,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xBkFTHLnA0ZjHAfVLW8NTc2E0FW.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Sobreviventes do Fluxo",
+            "releaseDate": "28/11/2021",
+            "durationMinutes": 51,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jcEyyiqsYMLA2VdiZanEGfg8oQC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Os Conquistadores",
+            "releaseDate": "05/12/2021",
+            "durationMinutes": 60,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/20wu1cj5iZWyphnYQvKY1M9yBYQ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      }
+    ]
   }
 ]
