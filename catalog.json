@@ -25,7 +25,7 @@
   },
   {
     "id": "tmg",
-    "title": "The Midnight Gospel",
+    "title": "The Midnight Gospel 2",
     "type": "Série",
     "genres": [
       "Animação",
@@ -58,6 +58,17 @@
             "hasSubtitled": true,
             "posterUrl": "",
             "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Titulo 3",
+            "releaseDate": "",
+            "durationMinutes": 22,
+            "hasDubbed": true,
+            "hasSubtitled": false,
+            "posterUrl": "",
+            "videoUrlDubbed": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1E",
             "videoUrlSubtitled": ""
           }
         ]
