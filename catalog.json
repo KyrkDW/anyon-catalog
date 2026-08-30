@@ -3283,5 +3283,29 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gg2",
+    "title": "Guardiões da Galáxia - Vol. 2",
+    "type": "Filme",
+    "genres": [
+      "Ficção científica",
+      "Aventura",
+      "Ação"
+    ],
+    "releaseYear": 2017,
+    "synopsis": "Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/jGtBLu0JAKf5JxhWgmF68HROzCA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/bW93ycPSSi3Hxx1NvlMX5qm2mQu.jpg",
+    "colorHex": "#E50914",
+    "rating": 7.6,
+    "ratingCount": 23348,
+    "finished": true,
+    "durationMinutes": 120,
+    "franchiseId": "franquia_gg",
+    "franchiseOrder": 2,
+    "videoUrlDubbed": "http://vod.up-cdn.com.br/Series/Brooklyn.Nine-Nine/S01/Brooklyn.Nine-Nine.S01.E01.mp4?exp=1788134367&token=9870e2f2b1d8e0632d9126745b3d8deb76608a9c56b796304fed96e22d518b77",
+    "videoUrlSubtitled": "",
+    "seasons": []
   }
 ]
