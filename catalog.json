@@ -4961,5 +4961,1889 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fut",
+    "title": "Futurama",
+    "type": "Série",
+    "genres": [
+      "Animação",
+      "Comédia",
+      "Sci-Fi & Fantasy"
+    ],
+    "releaseYear": 1999,
+    "synopsis": "Fry era um simples entregador de pizza cuja vida parecia não ter nenhum propósito. Após ser congelado acidentalmente na véspera do Ano-Novo de 1999, ele desperta mil anos no futuro e ganha a chance de recomeçar em um mundo repleto de alienígenas e robôs.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+    "colorHex": "#E50914",
+    "rating": 8.4,
+    "ratingCount": 3877,
+    "finished": true,
+    "durationMinutes": null,
+    "franchiseId": null,
+    "franchiseOrder": null,
+    "videoUrlDubbed": "",
+    "videoUrlSubtitled": "",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Fry no Ano 3000",
+            "releaseDate": "28/03/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Uma viagem a Lua",
+            "releaseDate": "04/04/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eaTsjWXFpySli5ZUgHG1vM3uD1J.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Meu amigo robô",
+            "releaseDate": "06/04/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zkGFQZejCzqfXzbPdRTgsvSh6p8.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A procura de um amor",
+            "releaseDate": "13/04/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rCue74nS7rdAwePEvOI2KRbigh7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Humanos aqui não entram",
+            "releaseDate": "20/04/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jJTSRsiZUZivsJWxgR8Q1HnryQF.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "A minha fortuna são os meus amigos",
+            "releaseDate": "27/04/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/SKGp9RnGMGFQQ1bzguy4kj6YmE.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Imperador por um dia",
+            "releaseDate": "04/05/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q7iq39dlq8A8cpWIO4aV6vpmgfi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "O mau do século XX",
+            "releaseDate": "11/05/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/zofFgn2I2MYza7bRbqJO7sUlNnS.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O inferno dos rôbos",
+            "releaseDate": "18/05/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2bPXyxhhUkB1uBHZQHqGkYZdDLA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Titanic do espaço",
+            "releaseDate": "26/09/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O macaco gênio",
+            "releaseDate": "03/10/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uqIVJR1fmkiwpcIsIcV0vxiyY4z.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "A magia da televisão",
+            "releaseDate": "07/11/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dAID4tEj8PrDd8273EAJT4k96RN.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O refrigerante secreto",
+            "releaseDate": "14/11/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/oLBjtYYG5Dqpx801W9uQDLjFFdw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Os mutantes",
+            "releaseDate": "21/11/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tYi9qF3zQp0PHUFHwKfZIu8IbFF.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "O crime de Zapp Brannigan",
+            "releaseDate": "28/11/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/snMwU19EI4iBg6CtQ0XwWOZnAzD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A eleição",
+            "releaseDate": "12/12/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bkx2ei9GMTGvY9UTBxIe56SWRUF.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Natal entre amigos",
+            "releaseDate": "19/12/1999",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/28t4x2WDEtG1uAx7kYvJQgavH9r.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O acasalamento",
+            "releaseDate": "06/02/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1Q34wlK6o1YMv0a286hjD8Lxkaw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Quero meu corpo de volta",
+            "releaseDate": "13/02/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6r5TT8CmCf9OLRstrIKmKMl33g.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "De volta ao século XX",
+            "releaseDate": "20/02/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/i2fkHlfu5LbqxT3UPXYhh7pOYOH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "O maior não é o melhor",
+            "releaseDate": "27/02/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hjKSgHDGfy2YPfeLpBESuxz80Ln.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "De onde eu vim?",
+            "releaseDate": "19/03/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/50Cab1RldZuPXCQWR4EFS4YSy0R.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 14,
+            "title": "Bender em apuros",
+            "releaseDate": "02/04/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sMFQCbxq22rOUtCuqhX47RUbqEq.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 15,
+            "title": "A aposentadoria forçada",
+            "releaseDate": "09/04/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/citWQdhDfBTqMYcaTn9hdRWYAU8.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 16,
+            "title": "Visita à cidade perdida",
+            "releaseDate": "16/04/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2lvlPgFAZZjGTpkra30tgHZxqbT.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 17,
+            "title": "Bender na máfia",
+            "releaseDate": "30/04/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/87o3q5XhwOmTFTRoMpbvXfSZQx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 18,
+            "title": "Espécime em extinção",
+            "releaseDate": "07/05/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sQORQb9QoBFruscuv1H6jckoVcf.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 19,
+            "title": "O grande amor de Hubert",
+            "releaseDate": "14/05/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yVYCfa3RIKW0kUiUfxoXy8Es6rf.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 20,
+            "title": "A máquina das probalidades",
+            "releaseDate": "21/05/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fXY3EYjloC9qCN75LbpcNXyg6sq.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 3,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Rôbocar assassino",
+            "releaseDate": "05/11/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eS3NW1cGT5UFu2c5SVL3uOciKsG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O soldado modelo",
+            "releaseDate": "26/11/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pbBmkmURo6HiFTzZTuQrIHPUztl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "De volta ao passado",
+            "releaseDate": "03/12/2000",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yu38WFGuP3gW2byOHQs8HrR7PfW.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Os parasitas perdidos",
+            "releaseDate": "21/01/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xfnxyzdRzSVCRjTIL7gwevm1bIS.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "As amazonas do futuro",
+            "releaseDate": "04/02/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sDmJieqa4SeuiFe2YWqO27fwSdE.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Amor sem fim",
+            "releaseDate": "11/02/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/suBEtxw08LijS5szYlFygRcUxtC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "O dia em que a Terra ficou idiota",
+            "releaseDate": "18/02/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/d2jlCAzegweOByXwssslxGnMO6B.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A festa do Oscar",
+            "releaseDate": "25/02/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gTQQIilN1YCWGF8UMEmWVYjY5d7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O desastre ecológico dos pinguins",
+            "releaseDate": "04/03/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sb16d5WY1JRKF573E35bGgg2PgC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "O trevo da sorte",
+            "releaseDate": "11/03/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q7nNMARWhfaSUdvLdoivzk11jmm.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Um sonho realizado",
+            "releaseDate": "01/04/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yPzujVMvh8XNelPpsTOS3mynrt3.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Um dia de louco",
+            "releaseDate": "08/04/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/z8TDfjc1JcrRXORIHDmIvdr2U64.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "Uma vida de sucesso",
+            "releaseDate": "22/04/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uweh3WB6iKRw1X82IrXRy6tQ92g.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 14,
+            "title": "O tempo não para",
+            "releaseDate": "06/05/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fLeQeTNgLxVhE8jO2aEjI9lHmqo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 15,
+            "title": "Eu namorei um robô",
+            "releaseDate": "13/05/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ayvhtQnh7j7MnTCoysoSDcOYraz.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 4,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "De volta ao passado",
+            "releaseDate": "09/12/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yUEOJQozaXt1dvdWmLZ36uYxQRG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Uma história de dois papais noéis",
+            "releaseDate": "23/12/2001",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gzHWmv6oOvxtSfkDT2meTDIZDdT.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Antologia do interesse",
+            "releaseDate": "06/01/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nx2M8r63adyAv6wWZdpRbUemspl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A nave espacial apaixonada",
+            "releaseDate": "10/02/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jSY6INlTUtLLAnnzvVk1WG4V3MK.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "O mundo de Leela",
+            "releaseDate": "17/02/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/oNxC7eXG13uJPc1u3WZFYMotuJO.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Paz em Marte",
+            "releaseDate": "03/03/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y0psJqkYDQDQxwFy8XPjHqOH11y.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Um faraó para ser lembrado",
+            "releaseDate": "10/03/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pCZfALvW2o498KArwfi0GR1eVYH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "A falta de um amigo",
+            "releaseDate": "17/03/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jMkyLIOsaSX9UFvUHg1hk31Qzaz.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Mamãe ataca de novo",
+            "releaseDate": "17/03/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1OZgpWcDDOM5uAYTLj1owrnkC6r.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "A fama de Leela",
+            "releaseDate": "07/04/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/w4UtFed1ej217dj8yyWrTa3SPTy.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Concurso de culinária",
+            "releaseDate": "14/04/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qECcd4iENLqtHsmPw2ywpaxnc6R.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Um fã pra lá de fiel",
+            "releaseDate": "21/04/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5tmNMy5PStVbxuG6HiTZI6HFswG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 5,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Calor de matar",
+            "releaseDate": "10/11/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aFS3AdpUd7af3OWGh4kU673xIDM.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "De volta ao passado",
+            "releaseDate": "17/11/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/2E3oMUrBFt6d3J1GKMBtrAF1Zh7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Uma lição para os filhos",
+            "releaseDate": "08/12/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/3yNo0EyDhBOvZEcQNVG8cnimfRE.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Um gostinho de liberdade",
+            "releaseDate": "22/12/2002",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dnLxcyKd7WZsBJeALwsjkEATPk.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "O nascimento de novas vidas",
+            "releaseDate": "12/01/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bKq2eqHyv7UPUJrTyUKk34o9oga.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Os Super-Heróis",
+            "releaseDate": "02/03/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/frSY3b82YdVWGYtPvKuc6IKNlTr.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Voltando no tempo",
+            "releaseDate": "30/03/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/64Vv5F1hn1X1ESJeVUyOYjyfFno.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "O futuro de Fry",
+            "releaseDate": "06/04/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yjfmkF86ssDg7OiBaVGIiAV4fe8.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O sonho sem fim",
+            "releaseDate": "01/06/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/oW8kvthOCj59TdxgMHR3JtORrGL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "O universo paralelo",
+            "releaseDate": "08/06/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hPpU9C0ESgmLe1ZYbVZ75t0HSVK.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Dinheiro não traz felicidade",
+            "releaseDate": "15/06/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/v8FERGzRijN53AyDhFs0j1hC7Qo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "A volta da paixão",
+            "releaseDate": "13/07/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fL8bD6w5ybeuVQQKz2kVM39WXLC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "O grande amor de Bender",
+            "releaseDate": "20/07/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mOKWoFNNiOlZ9Symn5Ep6PQBNIr.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 14,
+            "title": "A transformação de Bender",
+            "releaseDate": "27/07/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/e7kag2TLftnwZeTcM5nXjb8mV5A.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 15,
+            "title": "Bender na TV",
+            "releaseDate": "03/08/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aPRO6qy4wR6YF2njJ5YihvSdwxp.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 16,
+            "title": "As mãos demoníacas",
+            "releaseDate": "10/08/2003",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vpecUkQNTnXTkBT3RvuvLnDE1PA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 6,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Renascimento",
+            "releaseDate": "24/06/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/1eQQk2IKp4MawfEgHL2WnO0aUfo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Inagada Leela",
+            "releaseDate": "24/06/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/x1oe99NYf7nMr7RGM51GvYeLmgZ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "O Formulário Assassino",
+            "releaseDate": "01/07/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iStyfvkMZCNspK9cmbULBJs8xsD.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Proposta Infinita",
+            "releaseDate": "08/07/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/j5UF44vOMOwWpM9MCcyA1spp0s1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Código",
+            "releaseDate": "15/07/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pF13CQVyPpKUMBdR980U1zw7BAx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Inspeção Letal",
+            "releaseDate": "22/07/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qskcBmXTekxCLf34JUibTmAw354.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "O Atraso de Fry",
+            "releaseDate": "29/07/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/yKzbif56rGt8YJoEKOpkaRZlrGp.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Maldito Katz!",
+            "releaseDate": "05/08/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rqS7fbOCjUKznOmEWBiaDG7utTj.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Origem Mecânica",
+            "releaseDate": "12/08/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/soUcHRUpyGnvNWprRfzfl4vec0o.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "O Prisioneiro de Benda",
+            "releaseDate": "19/08/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ab6dMyjHG1IB8v9BQVKQ292oxde.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Diferenças Irreconciliáveis",
+            "releaseDate": "26/08/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dNurwgKsDrgQVDdilK2AiI4YOLi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "A Revolta dos Mutantes",
+            "releaseDate": "02/09/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/57V5tTbKy2M9fdk5sOV62tItk2C.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "Feriado Espetacular",
+            "releaseDate": "21/11/2010",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ioOBxMx9PW7Gd1Lc8KOGPSvSLU4.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 14,
+            "title": "Troca de Sexos",
+            "releaseDate": "23/06/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/voXsXBBb0xu83goDnpMaSDTCqjs.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 15,
+            "title": "Benderama",
+            "releaseDate": "23/06/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xDLALYAH3j01BbpV24J1kRJ0hv1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 16,
+            "title": "Fantasma nas Máquinas",
+            "releaseDate": "30/06/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gFMoRbLwtnXIRYyydFjrALkWHa5.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 17,
+            "title": "Lei e Oráculo",
+            "releaseDate": "07/07/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/grqgjjQJLiDOVP07eqGl3ImqFm5.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 18,
+            "title": "O silêncio das pinças",
+            "releaseDate": "14/07/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/b86r1KnL3K9XEwyMCXQ8OETJwWn.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 19,
+            "title": "Leela, a Redatora",
+            "releaseDate": "21/07/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8QzOySBN9tIl3CLBeZun7oxyQ4m.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 20,
+            "title": "Viajando ao passado",
+            "releaseDate": "28/07/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5MuDV1zY6X1JLt9YhJUpO0s62QT.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 21,
+            "title": "Möbius Dick",
+            "releaseDate": "04/08/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xBCkglWIMTdBbXgXkqw3oegLg33.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 22,
+            "title": "Fry e o Bicho Alienígena",
+            "releaseDate": "11/08/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/w8GngRdtbsAQLFaTTaamhQc6AtC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 23,
+            "title": "A Ponta de Zoidberg - O Pacto Secreto",
+            "releaseDate": "18/08/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/AczPd0k50q4UHyiw6MzuXCVmgw0.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 24,
+            "title": "O Vírus Congelado",
+            "releaseDate": "25/08/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/dWJft3ByxC7k6OQLW5oXGgpchkI.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 25,
+            "title": "Bender Acelerado",
+            "releaseDate": "01/09/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8uk5neFzOLE3EVRQwrx80FOCEDL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 26,
+            "title": "Comunicação Alienígena",
+            "releaseDate": "08/09/2011",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ykGOR32fJCyOkw609OihnotJRFx.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 7,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Os Robôs e As Abelhas",
+            "releaseDate": "20/06/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/q7GZDhQJlSasRFEb1VI4ZAxdY4i.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Adeus aos Braços",
+            "releaseDate": "20/06/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qgPkyaqbqUAqCROoFKWPVgkwKXw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Eleições 3012",
+            "releaseDate": "27/06/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/jkGMn5lHmAs5DMQYZlSZ42WMQIn.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "O Ladrão do Cabeça de Saco",
+            "releaseDate": "04/07/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ojSg3CG0Au7HaDacxUvPswqcQFB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Zapp Dingbat",
+            "releaseDate": "11/07/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/YJmkCI0tLtvotVUA73TzAamiyY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Efeito Borboleta",
+            "releaseDate": "18/07/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mTz8hA5KxlqUcdKiLry79HvAdod.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "O Cara de Seis Milhões de Dólares",
+            "releaseDate": "25/07/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6LDycnPEbABBuW5jOqwgqghUpT7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Diversão em um Pão",
+            "releaseDate": "01/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fmke7U1oazplEGw1wdeNua5QUx7.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Caçada ao Livre-Arbítrio",
+            "releaseDate": "08/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/o2DQe9QvSs2Smpjhc6TO6fwhPDX.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Quase Último Desejo",
+            "releaseDate": "15/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/vwW9qD1mY8iQJsOqYyPcvUCGALl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 11,
+            "title": "Viva Marte Vegas",
+            "releaseDate": "22/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/mxDU3SII2sdx81jgxuYnHAaTw4H.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 12,
+            "title": "Raposa do Século 31",
+            "releaseDate": "29/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iGGRo41txMttWLGdN479bmKXLKU.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 13,
+            "title": "Naturama",
+            "releaseDate": "29/08/2012",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rkhxkgoLjNAikGMk5qlrd3RXzOg.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 14,
+            "title": "2-D",
+            "releaseDate": "19/06/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tjqgGMzlkoKySnLlqQCd2SBxgbH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 15,
+            "title": "As Férias de Fry e Leela",
+            "releaseDate": "19/06/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8BxQiWCr6pWNxgA5DmRnabulaGz.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 16,
+            "title": "T .: o Terráqueo",
+            "releaseDate": "26/06/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7Uuj3uKJrO8JRMuzlkDLD2Mu2DY.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 17,
+            "title": "Quarenta por cento cantor",
+            "releaseDate": "03/07/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/hAVURl7kyDo7PFAb2oKtW62Onf1.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 18,
+            "title": "A tocha desumana",
+            "releaseDate": "10/07/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7ju87L8ORR5QTmuICNo3PrEZeJa.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 19,
+            "title": "Desenho animado do Sábado",
+            "releaseDate": "17/07/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nSamYknHVdRlS9fxJtFthlCPL4y.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 20,
+            "title": "Calculo 2.0",
+            "releaseDate": "24/07/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aosFWskq21Tj3bnklh7UT8tTUbt.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 21,
+            "title": "Bundinha Volta para Casa",
+            "releaseDate": "31/07/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/drbfHUk0E3t3bpaS0n7qOrNU98a.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 22,
+            "title": "Genis de Leela",
+            "releaseDate": "07/08/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/nCpOIvYXK4PxmQJdjOVUMVjmW3s.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 23,
+            "title": "Jogos de Tones",
+            "releaseDate": "14/08/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5Tcy6R2IhvtEPWqkd9LyJ2cAUax.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 24,
+            "title": "Homicídio no Planeta Express",
+            "releaseDate": "21/08/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sgdcDUcVdjcbIHXaY016diw4Sfi.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 25,
+            "title": "Fedor e Sensibilidade",
+            "releaseDate": "28/08/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/siIFx1Xe1oeMOejDpOTwnXrAwHk.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 26,
+            "title": "Enquanto isso",
+            "releaseDate": "04/09/2013",
+            "durationMinutes": 22,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qkbNNqSa90wN69l2CraTxYWTGCS.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 8,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Maratona Impossível",
+            "releaseDate": "24/07/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/s3YVyUt8SInaEAnNa8fYV0rWJop.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Os filhos do Pântano",
+            "releaseDate": "31/07/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pSjcaB0hcVKSFvOwkTbgaYDEgbW.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Como era no oeste",
+            "releaseDate": "07/08/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/5tr9m2MZQavA8nmzwPVyDK1DGEZ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Domínio dos parasitas",
+            "releaseDate": "14/08/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/8ptBm3N0yHZGBo07EKzfkqivHtN.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Relacionado aos itens que você visualizou",
+            "releaseDate": "21/08/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eA2rsWBqVNNbADLo0DxWmx311NO.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Eu sei o que vocês fizeram no próximo Natal",
+            "releaseDate": "28/08/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/y7jQsMXPgouBsfTL6yQDouWhwNo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "A revolta da vacina",
+            "releaseDate": "04/09/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/uMEn0pihJrYdSGukejV7MS743GU.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "O cancelamento de Zapp",
+            "releaseDate": "11/09/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/aVzZrjSpNTHkI0hDBzsarJn6wpV.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O Príncipe e o Produto",
+            "releaseDate": "18/09/2023",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/viAOi4RsqfpcmEcmOyiPPeTMUjw.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Até o final",
+            "releaseDate": "25/09/2023",
+            "durationMinutes": 24,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ocxxkIYyGed5WyHe46onNk3Jntj.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 9,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "O Único Amigo",
+            "releaseDate": "29/07/2024",
+            "durationMinutes": 26,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/fCXX7n0MRqwXd1jTOekzhZsbCsy.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Jogos Infantis",
+            "releaseDate": "05/08/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/gUyR5whYSSHJPMUhLccffVE91f8.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "O Funcionário Temporário",
+            "releaseDate": "12/08/2024",
+            "durationMinutes": 24,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6egDa0rWmYGL5HajYAYli5EwwBP.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "A Bela e o Inseto",
+            "releaseDate": "19/08/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/pioIkZv11ybjFeEQefs2epY1MOq.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Um é Silício e o Outro Ouro",
+            "releaseDate": "26/08/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/k62Zjm2GLdTZpGG9rWcq7w8fYRh.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Ataque das Roupas",
+            "releaseDate": "02/09/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/sNOL224DqwaIiucgfpmwNjCRCEl.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Planeta Espresso",
+            "releaseDate": "09/09/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/3aT5GpJ9Gg4Bb6qNupTR52oDweC.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Excesso de Fofura",
+            "releaseDate": "16/09/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6cwghRGSMxYvkwyfLe8kO7h8Mpg.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Coleção de Mistérios de Futurama",
+            "releaseDate": "23/09/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/a5lzpcAFYBoJCzyUFHfKSkVu1oP.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Caso Contrário",
+            "releaseDate": "30/09/2024",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/iA7A9PBQmDkSBRoYWMBNIrYD6TL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 10,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Destruindo Monstros Altos",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/kPlIscLP2uC2j15wvqGlWejHleH.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "O Mundo já É Quente",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/xbGH5pwMgIObQkFjvr9hEkSR457.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Cinquenta Tons de Verde",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/7CLXQETkxwMPTGiBkvDGTXoWGwA.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Numerolândia",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/lftBVAllLGc5yZM1ADUgvOEY56p.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "Sem Tela e com Medo",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/ylBdSgjFtNbchpzLqKY5Xq6FKNJ.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Humano Perverso",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/c5tEiYIDnJ4ycxPk3Cvl0DROBXL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Assassinatoni",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/p2AbNYyh91kWjvXBGnoM0eXFb7w.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Rastro de Siri",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 24,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/A5nkxv053aZK4XXCPBYWAuEWxDK.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "O Problema com Trufas",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/idk2bDiqFVcUXonTXSQhsTJmJPL.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "O Buraco Branco",
+            "releaseDate": "15/09/2025",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/9nziPa2ybekovNBH2XHro2ucnoG.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      },
+      {
+        "seasonNumber": 11,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Carne de Vaca",
+            "releaseDate": "03/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/tx6Hviq7gkVB5Km6Eb65Enhkf6Z.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 2,
+            "title": "Caçador de Bagres",
+            "releaseDate": "03/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/qRciFt5BBChQkYdE2xXG4RGvuWU.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 3,
+            "title": "Nossa bandeira significa cobertura médica",
+            "releaseDate": "10/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/rJUwHE7AlMq4wVYt2TiJJZdlViI.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 4,
+            "title": "Senhores do Ringue",
+            "releaseDate": "17/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/bgJtryTYALxW9gDPow7nkNGphUa.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 5,
+            "title": "A Ofensiva de Charme",
+            "releaseDate": "24/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/6Ptu8ehQtH6fFZaVpexOdrRAFXB.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 6,
+            "title": "Desabrochar Tardio",
+            "releaseDate": "31/08/2026",
+            "durationMinutes": 25,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/eJQLycStIdiJvxXf2e6ggiqQSPe.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 7,
+            "title": "Amor à Primeira Fraude",
+            "releaseDate": "07/09/2026",
+            "durationMinutes": 0,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "https://image.tmdb.org/t/p/w500/wOs2JIQ15jM3mj5Fx6MyFWNpnyo.jpg",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 8,
+            "title": "Lord Nibbler no Nadaverso",
+            "releaseDate": "14/09/2026",
+            "durationMinutes": 0,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 9,
+            "title": "Um New York Yankee na Corte do Rei Elfo",
+            "releaseDate": "21/09/2026",
+            "durationMinutes": 0,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          },
+          {
+            "episodeNumber": 10,
+            "title": "Desfecho Final: A Conclusão Derradeira",
+            "releaseDate": "28/09/2026",
+            "durationMinutes": 0,
+            "hasDubbed": false,
+            "hasSubtitled": false,
+            "posterUrl": "",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
+          }
+        ]
+      }
+    ]
   }
 ]
