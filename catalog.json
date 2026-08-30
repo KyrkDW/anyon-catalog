@@ -3324,7 +3324,7 @@
     "colorHex": "#E50914",
     "rating": 7.6,
     "ratingCount": 3447,
-    "finished": true,
+    "finished": false,
     "durationMinutes": null,
     "franchiseId": null,
     "franchiseOrder": null,
