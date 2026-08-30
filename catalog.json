@@ -6682,5 +6682,29 @@
         ]
       }
     ]
+  },
+  {
+    "id": "tera",
+    "title": "Ponte para Terabítia",
+    "type": "Filme",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Família"
+    ],
+    "releaseYear": 2007,
+    "synopsis": "Jess sente-se um estranho na escola e até mesmo em sua família. Durante todo o verão ele treinou para ser o garoto mais rápido da escola, mas seus planos são ameaçados por Leslie, que vence uma corrida que deveria ser apenas para garotos.",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oWGPG1i9mUEyeQ01KJMQBt6KrhC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
+    "colorHex": "#E50914",
+    "rating": 7.3,
+    "ratingCount": 5434,
+    "finished": true,
+    "durationMinutes": null,
+    "franchiseId": null,
+    "franchiseOrder": null,
+    "videoUrlDubbed": "",
+    "videoUrlSubtitled": "",
+    "seasons": []
   }
 ]
