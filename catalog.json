@@ -3335,9 +3335,9 @@
     "rating": 7.9,
     "ratingCount": 8731,
     "finished": false,
-    "durationMinutes": null,
-    "franchiseId": null,
-    "franchiseOrder": null,
+    "durationMinutes": 120,
+    "franchiseId": "franquia_gg",
+    "franchiseOrder": 3,
     "videoUrlDubbed": "",
     "videoUrlSubtitled": "",
     "seasons": []
