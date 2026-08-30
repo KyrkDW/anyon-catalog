@@ -43,6 +43,8 @@
     "durationMinutes": null,
     "franchiseId": null,
     "franchiseOrder": null,
+    "videoUrlDubbed": "",
+    "videoUrlSubtitled": "",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -53,7 +55,10 @@
             "releaseDate": "01/01/2020",
             "durationMinutes": 22,
             "hasDubbed": true,
-            "hasSubtitled": true
+            "hasSubtitled": true,
+            "posterUrl": "",
+            "videoUrlDubbed": "",
+            "videoUrlSubtitled": ""
           }
         ]
       }
@@ -80,5 +85,45 @@
     "videoUrlDubbed": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1EQAgcOWlBaW0hLVFlbXk9SR04FAAEZBAoVD0lWUiMIChM%2FDiUNBRMaBQdHHRcOGE5cUQkKEjQbBQUCFRAQAgUFC0hRTkNDVElGSRoLBQgHGgAfAklCWEVUXFEHBAQfHQQfMxkXRlFbXUldXFQN",
     "videoUrlSubtitled": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1EQAgcOWlBaW0hLVFlbXk9SR04FAAEZBAoVD0lWUiMIChM%2FDiUNBRMaBQdHHRcOGE5cUQkKEjQbBQUCFRAQAgUFC0hRTkNDVElGSRoLBQgHGgAfAklCWEVUXFEHBAQfHQQfMxkXRlFbXUldXFQN",
     "seasons": []
+  },
+  {
+    "id": "b99",
+    "title": "Brooklyn Nine-Nine",
+    "type": "Série",
+    "genres": [
+      "Comédia",
+      "Crime"
+    ],
+    "releaseYear": 2013,
+    "synopsis": "O brilhante e imaturo detetive Jake Peralta precisa aprender a seguir as regras e trabalhar em equipe quando um capitão exigente assume o comando de seu esquadrão.",
+    "posterUrl": "",
+    "backdropUrl": "",
+    "colorHex": "#E50914",
+    "rating": 7.5,
+    "ratingCount": 10,
+    "finished": true,
+    "durationMinutes": null,
+    "franchiseId": null,
+    "franchiseOrder": null,
+    "videoUrlDubbed": "",
+    "videoUrlSubtitled": "",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "episodeNumber": 1,
+            "title": "Titulo do ep",
+            "releaseDate": "01/01/2013",
+            "durationMinutes": 22,
+            "hasDubbed": true,
+            "hasSubtitled": true,
+            "posterUrl": "",
+            "videoUrlDubbed": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1E",
+            "videoUrlSubtitled": "https://www-fontedecanais-gs.71dtkt53bkse71.com/series/brooklyn%20nine%20nine/14989.mp4?username=PlayTvOficial-vods&token=C1E"
+          }
+        ]
+      }
+    ]
   }
 ]
