@@ -6699,7 +6699,7 @@
     "colorHex": "#E50914",
     "rating": 7.3,
     "ratingCount": 5434,
-    "finished": true,
+    "finished": false,
     "durationMinutes": null,
     "franchiseId": null,
     "franchiseOrder": null,
